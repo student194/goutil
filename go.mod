@@ -1,4 +1,4 @@
-module zliu.org/goutil
+module github.com/liuzl/goutil
 
 go 1.19
 
